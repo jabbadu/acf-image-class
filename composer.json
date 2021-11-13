@@ -1,19 +1,16 @@
 {
-  "name": "jabbadu/acf-image-class",
-  "description": "Get and output an ACF image-field",
-  "keywords": ["wordpress", "acf", "advanced custom fields"],
-  "homepage": "https://github.com/jabbadu/acf-image-class",
-  "license": "MIT",
-  "authors": [
-    {
-      "name": "Olaf Parusel",
-      "email": "olaf@jabbadu.com"
-    }
-  ],
-  "require": {
-    "php": ">=7.3.24"
-  },
+	"name": "jabbadu/acf-image-class",
+	"description": "Get and output an ACF image-field",
+	"keywords": ["wordpress", "acf", "advanced custom fields"],
+	"homepage": "https://github.com/jabbadu/acf-image-class",
+	"license": "MIT",
+	"authors": [
+	{
+		"name": "Olaf Parusel",
+		"email": "olaf@jabbadu.com"
+	}
+	],
 	"autoload": {
-    "files": ["acf-image.class.php"]
-  }
+   		"files": ["acf-image.class.php"]
+  	}
 }
