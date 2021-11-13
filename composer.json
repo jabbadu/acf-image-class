@@ -5,10 +5,10 @@
 	"homepage": "https://github.com/jabbadu/acf-image-class",
 	"license": "MIT",
 	"authors": [
-	{
-		"name": "Olaf Parusel",
-		"email": "olaf@jabbadu.com"
-	}
+		{
+			"name": "Olaf Parusel",
+			"email": "olaf@jabbadu.com"
+		}
 	],
 	"autoload": {
    		"files": ["acf-image.class.php"]
